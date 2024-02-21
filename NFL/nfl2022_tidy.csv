@@ -1,0 +1,1137 @@
+Week,Team,Won,Metric,Value
+01,Buffalo Bills,True,YdsW,413.0
+01,New Orleans Saints,True,YdsW,385.0
+01,Cleveland Browns,True,YdsW,355.0
+01,Chicago Bears,True,YdsW,204.0
+01,Pittsburgh Steelers,True,YdsW,267.0
+01,Houston Texans,True,YdsW,299.0
+01,Philadelphia Eagles,True,YdsW,455.0
+01,Washington Commanders,True,YdsW,390.0
+01,Miami Dolphins,True,YdsW,307.0
+01,Baltimore Ravens,True,YdsW,274.0
+01,Kansas City Chiefs,True,YdsW,488.0
+01,Minnesota Vikings,True,YdsW,395.0
+01,New York Giants,True,YdsW,394.0
+01,Los Angeles Chargers,True,YdsW,355.0
+01,Tampa Bay Buccaneers,True,YdsW,347.0
+01,Seattle Seahawks,True,YdsW,253.0
+02,Kansas City Chiefs,True,YdsW,319.0
+02,New York Giants,True,YdsW,265.0
+02,New York Jets,True,YdsW,402.0
+02,Jacksonville Jaguars,True,YdsW,331.0
+02,Detroit Lions,True,YdsW,425.0
+02,Miami Dolphins,True,YdsW,547.0
+02,Tampa Bay Buccaneers,True,YdsW,260.0
+02,New England Patriots,True,YdsW,376.0
+02,Los Angeles Rams,True,YdsW,337.0
+02,San Francisco 49ers,True,YdsW,373.0
+02,Dallas Cowboys,True,YdsW,337.0
+02,Arizona Cardinals,True,YdsW,413.0
+02,Denver Broncos,True,YdsW,350.0
+02,Green Bay Packers,True,YdsW,414.0
+02,Buffalo Bills,True,YdsW,414.0
+02,Philadelphia Eagles,True,YdsW,486.0
+03,Cleveland Browns,True,YdsW,376.0
+03,Miami Dolphins,True,YdsW,212.0
+03,Carolina Panthers,True,YdsW,293.0
+03,Chicago Bears,True,YdsW,363.0
+03,Cincinnati Bengals,True,YdsW,330.0
+03,Indianapolis Colts,True,YdsW,259.0
+03,Minnesota Vikings,True,YdsW,373.0
+03,Baltimore Ravens,True,YdsW,394.0
+03,Tennessee Titans,True,YdsW,361.0
+03,Philadelphia Eagles,True,YdsW,400.0
+03,Jacksonville Jaguars,True,YdsW,413.0
+03,Atlanta Falcons,True,YdsW,386.0
+03,Los Angeles Rams,True,YdsW,339.0
+03,Green Bay Packers,True,YdsW,315.0
+03,Denver Broncos,True,YdsW,261.0
+03,Dallas Cowboys,True,YdsW,391.0
+04,Cincinnati Bengals,True,YdsW,371.0
+04,Minnesota Vikings,True,YdsW,344.0
+04,Atlanta Falcons,True,YdsW,333.0
+04,Buffalo Bills,True,YdsW,326.0
+04,New York Giants,True,YdsW,333.0
+04,Tennessee Titans,True,YdsW,243.0
+04,Dallas Cowboys,True,YdsW,279.0
+04,Seattle Seahawks,True,YdsW,555.0
+04,Los Angeles Chargers,True,YdsW,419.0
+04,Philadelphia Eagles,True,YdsW,401.0
+04,New York Jets,True,YdsW,348.0
+04,Arizona Cardinals,True,YdsW,338.0
+04,Las Vegas Raiders,True,YdsW,385.0
+04,Green Bay Packers,True,YdsW,443.0
+04,Kansas City Chiefs,True,YdsW,417.0
+04,San Francisco 49ers,True,YdsW,327.0
+05,Indianapolis Colts,True,YdsW,306.0
+05,New York Giants,True,YdsW,338.0
+05,Tampa Bay Buccaneers,True,YdsW,420.0
+05,Buffalo Bills,True,YdsW,552.0
+05,Minnesota Vikings,True,YdsW,429.0
+05,Los Angeles Chargers,True,YdsW,465.0
+05,New England Patriots,True,YdsW,364.0
+05,Houston Texans,True,YdsW,248.0
+05,New York Jets,True,YdsW,322.0
+05,New Orleans Saints,True,YdsW,438.0
+05,Tennessee Titans,True,YdsW,241.0
+05,San Francisco 49ers,True,YdsW,397.0
+05,Philadelphia Eagles,True,YdsW,357.0
+05,Dallas Cowboys,True,YdsW,239.0
+05,Baltimore Ravens,True,YdsW,325.0
+05,Kansas City Chiefs,True,YdsW,368.0
+06,Washington Commanders,True,YdsW,214.0
+06,Atlanta Falcons,True,YdsW,289.0
+06,Cincinnati Bengals,True,YdsW,348.0
+06,New England Patriots,True,YdsW,399.0
+06,Indianapolis Colts,True,YdsW,434.0
+06,New York Jets,True,YdsW,278.0
+06,Minnesota Vikings,True,YdsW,234.0
+06,New York Giants,True,YdsW,238.0
+06,Pittsburgh Steelers,True,YdsW,270.0
+06,Los Angeles Rams,True,YdsW,360.0
+06,Seattle Seahawks,True,YdsW,296.0
+06,Buffalo Bills,True,YdsW,443.0
+06,Philadelphia Eagles,True,YdsW,268.0
+06,Los Angeles Chargers,True,YdsW,297.0
+07,Arizona Cardinals,True,YdsW,326.0
+07,Cincinnati Bengals,True,YdsW,537.0
+07,Carolina Panthers,True,YdsW,343.0
+07,Baltimore Ravens,True,YdsW,254.0
+07,Tennessee Titans,True,YdsW,254.0
+07,Dallas Cowboys,True,YdsW,330.0
+07,Washington Commanders,True,YdsW,364.0
+07,New York Giants,True,YdsW,436.0
+07,Las Vegas Raiders,True,YdsW,400.0
+07,New York Jets,True,YdsW,260.0
+07,Kansas City Chiefs,True,YdsW,529.0
+07,Seattle Seahawks,True,YdsW,404.0
+07,Miami Dolphins,True,YdsW,372.0
+07,Chicago Bears,True,YdsW,390.0
+08,Baltimore Ravens,True,YdsW,453.0
+08,Denver Broncos,True,YdsW,331.0
+08,Miami Dolphins,True,YdsW,476.0
+08,Philadelphia Eagles,True,YdsW,401.0
+08,Atlanta Falcons,True,YdsW,406.0
+08,Dallas Cowboys,True,YdsW,442.0
+08,Minnesota Vikings,True,YdsW,381.0
+08,New Orleans Saints,True,YdsW,367.0
+08,New England Patriots,True,YdsW,288.0
+08,Tennessee Titans,True,YdsW,354.0
+08,San Francisco 49ers,True,YdsW,368.0
+08,Washington Commanders,True,YdsW,362.0
+08,Seattle Seahawks,True,YdsW,277.0
+08,Buffalo Bills,True,YdsW,369.0
+08,Cleveland Browns,True,YdsW,440.0
+09,Philadelphia Eagles,True,YdsW,360.0
+09,New York Jets,True,YdsW,310.0
+09,Detroit Lions,True,YdsW,254.0
+09,Minnesota Vikings,True,YdsW,301.0
+09,Los Angeles Chargers,True,YdsW,336.0
+09,Cincinnati Bengals,True,YdsW,464.0
+09,Miami Dolphins,True,YdsW,379.0
+09,New England Patriots,True,YdsW,203.0
+09,Jacksonville Jaguars,True,YdsW,403.0
+09,Seattle Seahawks,True,YdsW,421.0
+09,Tampa Bay Buccaneers,True,YdsW,323.0
+09,Kansas City Chiefs,True,YdsW,499.0
+09,Baltimore Ravens,True,YdsW,319.0
+10,Carolina Panthers,True,YdsW,333.0
+10,Tampa Bay Buccaneers,True,YdsW,419.0
+10,Minnesota Vikings,True,YdsW,481.0
+10,Miami Dolphins,True,YdsW,491.0
+10,Tennessee Titans,True,YdsW,307.0
+10,New York Giants,True,YdsW,367.0
+10,Detroit Lions,True,YdsW,323.0
+10,Kansas City Chiefs,True,YdsW,486.0
+10,Pittsburgh Steelers,True,YdsW,379.0
+10,Indianapolis Colts,True,YdsW,415.0
+10,Green Bay Packers,True,YdsW,415.0
+10,Arizona Cardinals,True,YdsW,298.0
+10,San Francisco 49ers,True,YdsW,387.0
+10,Washington Commanders,True,YdsW,330.0
+11,Tennessee Titans,True,YdsW,408.0
+11,Buffalo Bills,True,YdsW,357.0
+11,Detroit Lions,True,YdsW,325.0
+11,Washington Commanders,True,YdsW,344.0
+11,New England Patriots,True,YdsW,297.0
+11,Atlanta Falcons,True,YdsW,280.0
+11,Baltimore Ravens,True,YdsW,308.0
+11,Philadelphia Eagles,True,YdsW,314.0
+11,New Orleans Saints,True,YdsW,323.0
+11,Las Vegas Raiders,True,YdsW,407.0
+11,Cincinnati Bengals,True,YdsW,408.0
+11,Dallas Cowboys,True,YdsW,458.0
+11,Kansas City Chiefs,True,YdsW,485.0
+11,San Francisco 49ers,True,YdsW,387.0
+12,Buffalo Bills,True,YdsW,401.0
+12,Dallas Cowboys,True,YdsW,430.0
+12,Minnesota Vikings,True,YdsW,358.0
+12,Cincinnati Bengals,True,YdsW,374.0
+12,Cleveland Browns,True,YdsW,367.0
+12,Miami Dolphins,True,YdsW,339.0
+12,Jacksonville Jaguars,True,YdsW,332.0
+12,Washington Commanders,True,YdsW,314.0
+12,Carolina Panthers,True,YdsW,349.0
+12,New York Jets,True,YdsW,466.0
+12,Las Vegas Raiders,True,YdsW,576.0
+12,Los Angeles Chargers,True,YdsW,311.0
+12,Kansas City Chiefs,True,YdsW,437.0
+12,San Francisco 49ers,True,YdsW,317.0
+12,Philadelphia Eagles,True,YdsW,500.0
+12,Pittsburgh Steelers,True,YdsW,323.0
+13,Buffalo Bills,True,YdsW,355.0
+13,Cleveland Browns,True,YdsW,304.0
+13,Baltimore Ravens,True,YdsW,285.0
+13,Detroit Lions,True,YdsW,437.0
+13,Minnesota Vikings,True,YdsW,287.0
+13,Washington Commanders,True,YdsW,411.0
+13,Philadelphia Eagles,True,YdsW,453.0
+13,Pittsburgh Steelers,True,YdsW,351.0
+13,Green Bay Packers,True,YdsW,357.0
+13,San Francisco 49ers,True,YdsW,351.0
+13,Seattle Seahawks,True,YdsW,438.0
+13,Cincinnati Bengals,True,YdsW,431.0
+13,Las Vegas Raiders,True,YdsW,404.0
+13,Dallas Cowboys,True,YdsW,385.0
+13,Tampa Bay Buccaneers,True,YdsW,350.0
+14,Los Angeles Rams,True,YdsW,282.0
+14,Buffalo Bills,True,YdsW,232.0
+14,Cincinnati Bengals,True,YdsW,363.0
+14,Dallas Cowboys,True,YdsW,404.0
+14,Detroit Lions,True,YdsW,464.0
+14,Jacksonville Jaguars,True,YdsW,428.0
+14,Philadelphia Eagles,True,YdsW,437.0
+14,Baltimore Ravens,True,YdsW,309.0
+14,Kansas City Chiefs,True,YdsW,431.0
+14,Carolina Panthers,True,YdsW,328.0
+14,San Francisco 49ers,True,YdsW,404.0
+14,Los Angeles Chargers,True,YdsW,432.0
+14,New England Patriots,True,YdsW,328.0
+15,San Francisco 49ers,True,YdsW,381.0
+15,Minnesota Vikings,True,YdsW,518.0
+15,Cleveland Browns,True,YdsW,283.0
+15,Buffalo Bills,True,YdsW,446.0
+15,New Orleans Saints,True,YdsW,348.0
+15,Pittsburgh Steelers,True,YdsW,325.0
+15,Philadelphia Eagles,True,YdsW,421.0
+15,Jacksonville Jaguars,True,YdsW,503.0
+15,Detroit Lions,True,YdsW,359.0
+15,Kansas City Chiefs,True,YdsW,502.0
+15,Denver Broncos,True,YdsW,324.0
+15,Las Vegas Raiders,True,YdsW,308.0
+15,Cincinnati Bengals,True,YdsW,237.0
+15,Los Angeles Chargers,True,YdsW,365.0
+15,New York Giants,True,YdsW,288.0
+15,Green Bay Packers,True,YdsW,345.0
+16,Jacksonville Jaguars,True,YdsW,365.0
+16,Baltimore Ravens,True,YdsW,299.0
+16,Buffalo Bills,True,YdsW,426.0
+16,Carolina Panthers,True,YdsW,570.0
+16,Cincinnati Bengals,True,YdsW,442.0
+16,New Orleans Saints,True,YdsW,244.0
+16,Houston Texans,True,YdsW,285.0
+16,Kansas City Chiefs,True,YdsW,297.0
+16,Minnesota Vikings,True,YdsW,353.0
+16,San Francisco 49ers,True,YdsW,371.0
+16,Dallas Cowboys,True,YdsW,419.0
+16,Pittsburgh Steelers,True,YdsW,350.0
+16,Green Bay Packers,True,YdsW,301.0
+16,Los Angeles Rams,True,YdsW,388.0
+16,Tampa Bay Buccaneers,True,YdsW,396.0
+16,Los Angeles Chargers,True,YdsW,314.0
+17,Dallas Cowboys,True,YdsW,361.0
+17,Atlanta Falcons,True,YdsW,298.0
+17,Tampa Bay Buccaneers,True,YdsW,478.0
+17,Detroit Lions,True,YdsW,504.0
+17,Cleveland Browns,True,YdsW,301.0
+17,New York Giants,True,YdsW,394.0
+17,Kansas City Chiefs,True,YdsW,374.0
+17,Jacksonville Jaguars,True,YdsW,337.0
+17,New England Patriots,True,YdsW,249.0
+17,New Orleans Saints,True,YdsW,313.0
+17,Seattle Seahawks,True,YdsW,346.0
+17,San Francisco 49ers,True,YdsW,454.0
+17,Green Bay Packers,True,YdsW,315.0
+17,Los Angeles Chargers,True,YdsW,431.0
+17,Pittsburgh Steelers,True,YdsW,351.0
+18,Kansas City Chiefs,True,YdsW,349.0
+18,Jacksonville Jaguars,True,YdsW,222.0
+18,Buffalo Bills,True,YdsW,327.0
+18,Cincinnati Bengals,True,YdsW,257.0
+18,Atlanta Falcons,True,YdsW,382.0
+18,Carolina Panthers,True,YdsW,203.0
+18,Minnesota Vikings,True,YdsW,482.0
+18,Pittsburgh Steelers,True,YdsW,333.0
+18,Houston Texans,True,YdsW,360.0
+18,Miami Dolphins,True,YdsW,302.0
+18,San Francisco 49ers,True,YdsW,311.0
+18,Washington Commanders,True,YdsW,309.0
+18,Denver Broncos,True,YdsW,471.0
+18,Philadelphia Eagles,True,YdsW,342.0
+18,Seattle Seahawks,True,YdsW,402.0
+18,Detroit Lions,True,YdsW,323.0
+1WildCard,San Francisco 49ers,True,YdsW,505.0
+1WildCard,Jacksonville Jaguars,True,YdsW,390.0
+1WildCard,Buffalo Bills,True,YdsW,423.0
+1WildCard,New York Giants,True,YdsW,431.0
+1WildCard,Cincinnati Bengals,True,YdsW,234.0
+1WildCard,Dallas Cowboys,True,YdsW,425.0
+2Division,Kansas City Chiefs,True,YdsW,362.0
+2Division,Philadelphia Eagles,True,YdsW,416.0
+2Division,Cincinnati Bengals,True,YdsW,412.0
+2Division,San Francisco 49ers,True,YdsW,312.0
+ConfChamp,Philadelphia Eagles,True,YdsW,269.0
+ConfChamp,Kansas City Chiefs,True,YdsW,357.0
+SuperBowl,Kansas City Chiefs,True,YdsW,340.0
+01,Los Angeles Rams,False,YdsL,243.0
+01,Atlanta Falcons,False,YdsL,416.0
+01,Carolina Panthers,False,YdsL,261.0
+01,San Francisco 49ers,False,YdsL,331.0
+01,Cincinnati Bengals,False,YdsL,432.0
+01,Indianapolis Colts,False,YdsL,517.0
+01,Detroit Lions,False,YdsL,386.0
+01,Jacksonville Jaguars,False,YdsL,383.0
+01,New England Patriots,False,YdsL,271.0
+01,New York Jets,False,YdsL,380.0
+01,Arizona Cardinals,False,YdsL,282.0
+01,Green Bay Packers,False,YdsL,338.0
+01,Tennessee Titans,False,YdsL,359.0
+01,Las Vegas Raiders,False,YdsL,320.0
+01,Dallas Cowboys,False,YdsL,244.0
+01,Denver Broncos,False,YdsL,433.0
+02,Los Angeles Chargers,False,YdsL,401.0
+02,Carolina Panthers,False,YdsL,275.0
+02,Cleveland Browns,False,YdsL,405.0
+02,Indianapolis Colts,False,YdsL,218.0
+02,Washington Commanders,False,YdsL,396.0
+02,Baltimore Ravens,False,YdsL,473.0
+02,New Orleans Saints,False,YdsL,308.0
+02,Pittsburgh Steelers,False,YdsL,243.0
+02,Atlanta Falcons,False,YdsL,261.0
+02,Seattle Seahawks,False,YdsL,216.0
+02,Cincinnati Bengals,False,YdsL,254.0
+02,Las Vegas Raiders,False,YdsL,324.0
+02,Houston Texans,False,YdsL,234.0
+02,Chicago Bears,False,YdsL,228.0
+02,Tennessee Titans,False,YdsL,187.0
+02,Minnesota Vikings,False,YdsL,264.0
+03,Pittsburgh Steelers,False,YdsL,308.0
+03,Buffalo Bills,False,YdsL,497.0
+03,New Orleans Saints,False,YdsL,426.0
+03,Houston Texans,False,YdsL,329.0
+03,New York Jets,False,YdsL,328.0
+03,Kansas City Chiefs,False,YdsL,315.0
+03,Detroit Lions,False,YdsL,416.0
+03,New England Patriots,False,YdsL,447.0
+03,Las Vegas Raiders,False,YdsL,396.0
+03,Washington Commanders,False,YdsL,240.0
+03,Los Angeles Chargers,False,YdsL,312.0
+03,Seattle Seahawks,False,YdsL,420.0
+03,Arizona Cardinals,False,YdsL,365.0
+03,Tampa Bay Buccaneers,False,YdsL,285.0
+03,San Francisco 49ers,False,YdsL,267.0
+03,New York Giants,False,YdsL,336.0
+04,Miami Dolphins,False,YdsL,378.0
+04,New Orleans Saints,False,YdsL,338.0
+04,Cleveland Browns,False,YdsL,403.0
+04,Baltimore Ravens,False,YdsL,296.0
+04,Chicago Bears,False,YdsL,304.0
+04,Indianapolis Colts,False,YdsL,365.0
+04,Washington Commanders,False,YdsL,297.0
+04,Detroit Lions,False,YdsL,520.0
+04,Houston Texans,False,YdsL,346.0
+04,Jacksonville Jaguars,False,YdsL,219.0
+04,Pittsburgh Steelers,False,YdsL,297.0
+04,Carolina Panthers,False,YdsL,220.0
+04,Denver Broncos,False,YdsL,299.0
+04,New England Patriots,False,YdsL,271.0
+04,Tampa Bay Buccaneers,False,YdsL,376.0
+04,Los Angeles Rams,False,YdsL,257.0
+05,Denver Broncos,False,YdsL,375.0
+05,Green Bay Packers,False,YdsL,301.0
+05,Atlanta Falcons,False,YdsL,261.0
+05,Pittsburgh Steelers,False,YdsL,364.0
+05,Chicago Bears,False,YdsL,271.0
+05,Cleveland Browns,False,YdsL,443.0
+05,Detroit Lions,False,YdsL,312.0
+05,Jacksonville Jaguars,False,YdsL,422.0
+05,Miami Dolphins,False,YdsL,295.0
+05,Seattle Seahawks,False,YdsL,396.0
+05,Washington Commanders,False,YdsL,385.0
+05,Carolina Panthers,False,YdsL,308.0
+05,Arizona Cardinals,False,YdsL,363.0
+05,Los Angeles Rams,False,YdsL,323.0
+05,Cincinnati Bengals,False,YdsL,291.0
+05,Las Vegas Raiders,False,YdsL,378.0
+06,Chicago Bears,False,YdsL,391.0
+06,San Francisco 49ers,False,YdsL,346.0
+06,New Orleans Saints,False,YdsL,399.0
+06,Cleveland Browns,False,YdsL,328.0
+06,Jacksonville Jaguars,False,YdsL,379.0
+06,Green Bay Packers,False,YdsL,278.0
+06,Miami Dolphins,False,YdsL,458.0
+06,Baltimore Ravens,False,YdsL,406.0
+06,Tampa Bay Buccaneers,False,YdsL,304.0
+06,Carolina Panthers,False,YdsL,203.0
+06,Arizona Cardinals,False,YdsL,315.0
+06,Kansas City Chiefs,False,YdsL,387.0
+06,Dallas Cowboys,False,YdsL,315.0
+06,Denver Broncos,False,YdsL,258.0
+07,New Orleans Saints,False,YdsL,494.0
+07,Atlanta Falcons,False,YdsL,214.0
+07,Tampa Bay Buccaneers,False,YdsL,322.0
+07,Cleveland Browns,False,YdsL,336.0
+07,Indianapolis Colts,False,YdsL,292.0
+07,Detroit Lions,False,YdsL,312.0
+07,Green Bay Packers,False,YdsL,232.0
+07,Jacksonville Jaguars,False,YdsL,452.0
+07,Houston Texans,False,YdsL,404.0
+07,Denver Broncos,False,YdsL,324.0
+07,San Francisco 49ers,False,YdsL,444.0
+07,Los Angeles Chargers,False,YdsL,329.0
+07,Pittsburgh Steelers,False,YdsL,341.0
+07,New England Patriots,False,YdsL,260.0
+08,Tampa Bay Buccaneers,False,YdsL,349.0
+08,Jacksonville Jaguars,False,YdsL,305.0
+08,Detroit Lions,False,YdsL,393.0
+08,Pittsburgh Steelers,False,YdsL,302.0
+08,Carolina Panthers,False,YdsL,478.0
+08,Chicago Bears,False,YdsL,371.0
+08,Arizona Cardinals,False,YdsL,375.0
+08,Las Vegas Raiders,False,YdsL,183.0
+08,New York Jets,False,YdsL,387.0
+08,Houston Texans,False,YdsL,161.0
+08,Los Angeles Rams,False,YdsL,223.0
+08,Indianapolis Colts,False,YdsL,324.0
+08,New York Giants,False,YdsL,225.0
+08,Green Bay Packers,False,YdsL,398.0
+08,Cincinnati Bengals,False,YdsL,229.0
+09,Houston Texans,False,YdsL,303.0
+09,Buffalo Bills,False,YdsL,317.0
+09,Green Bay Packers,False,YdsL,389.0
+09,Washington Commanders,False,YdsL,263.0
+09,Atlanta Falcons,False,YdsL,315.0
+09,Carolina Panthers,False,YdsL,228.0
+09,Chicago Bears,False,YdsL,368.0
+09,Indianapolis Colts,False,YdsL,121.0
+09,Las Vegas Raiders,False,YdsL,321.0
+09,Arizona Cardinals,False,YdsL,262.0
+09,Los Angeles Rams,False,YdsL,206.0
+09,Tennessee Titans,False,YdsL,229.0
+09,New Orleans Saints,False,YdsL,243.0
+10,Atlanta Falcons,False,YdsL,291.0
+10,Seattle Seahawks,False,YdsL,283.0
+10,Buffalo Bills,False,YdsL,486.0
+10,Cleveland Browns,False,YdsL,297.0
+10,Denver Broncos,False,YdsL,313.0
+10,Houston Texans,False,YdsL,387.0
+10,Chicago Bears,False,YdsL,408.0
+10,Jacksonville Jaguars,False,YdsL,315.0
+10,New Orleans Saints,False,YdsL,186.0
+10,Las Vegas Raiders,False,YdsL,309.0
+10,Dallas Cowboys,False,YdsL,421.0
+10,Los Angeles Rams,False,YdsL,256.0
+10,Los Angeles Chargers,False,YdsL,238.0
+10,Philadelphia Eagles,False,YdsL,264.0
+11,Green Bay Packers,False,YdsL,271.0
+11,Cleveland Browns,False,YdsL,396.0
+11,New York Giants,False,YdsL,413.0
+11,Houston Texans,False,YdsL,148.0
+11,New York Jets,False,YdsL,103.0
+11,Chicago Bears,False,YdsL,288.0
+11,Carolina Panthers,False,YdsL,205.0
+11,Indianapolis Colts,False,YdsL,284.0
+11,Los Angeles Rams,False,YdsL,336.0
+11,Denver Broncos,False,YdsL,320.0
+11,Pittsburgh Steelers,False,YdsL,351.0
+11,Minnesota Vikings,False,YdsL,183.0
+11,Los Angeles Chargers,False,YdsL,365.0
+11,Arizona Cardinals,False,YdsL,314.0
+12,Detroit Lions,False,YdsL,326.0
+12,New York Giants,False,YdsL,300.0
+12,New England Patriots,False,YdsL,409.0
+12,Tennessee Titans,False,YdsL,344.0
+12,Tampa Bay Buccaneers,False,YdsL,325.0
+12,Houston Texans,False,YdsL,210.0
+12,Baltimore Ravens,False,YdsL,415.0
+12,Atlanta Falcons,False,YdsL,332.0
+12,Denver Broncos,False,YdsL,246.0
+12,Chicago Bears,False,YdsL,292.0
+12,Seattle Seahawks,False,YdsL,372.0
+12,Arizona Cardinals,False,YdsL,366.0
+12,Los Angeles Rams,False,YdsL,198.0
+12,New Orleans Saints,False,YdsL,260.0
+12,Green Bay Packers,False,YdsL,342.0
+12,Indianapolis Colts,False,YdsL,290.0
+13,New England Patriots,False,YdsL,242.0
+13,Houston Texans,False,YdsL,283.0
+13,Denver Broncos,False,YdsL,272.0
+13,Jacksonville Jaguars,False,YdsL,266.0
+13,New York Jets,False,YdsL,486.0
+13,New York Giants,False,YdsL,316.0
+13,Tennessee Titans,False,YdsL,209.0
+13,Atlanta Falcons,False,YdsL,306.0
+13,Chicago Bears,False,YdsL,409.0
+13,Miami Dolphins,False,YdsL,308.0
+13,Los Angeles Rams,False,YdsL,319.0
+13,Kansas City Chiefs,False,YdsL,349.0
+13,Los Angeles Chargers,False,YdsL,386.0
+13,Indianapolis Colts,False,YdsL,309.0
+13,New Orleans Saints,False,YdsL,298.0
+14,Las Vegas Raiders,False,YdsL,302.0
+14,New York Jets,False,YdsL,309.0
+14,Cleveland Browns,False,YdsL,344.0
+14,Houston Texans,False,YdsL,327.0
+14,Minnesota Vikings,False,YdsL,416.0
+14,Tennessee Titans,False,YdsL,364.0
+14,New York Giants,False,YdsL,304.0
+14,Pittsburgh Steelers,False,YdsL,329.0
+14,Denver Broncos,False,YdsL,320.0
+14,Seattle Seahawks,False,YdsL,287.0
+14,Tampa Bay Buccaneers,False,YdsL,322.0
+14,Miami Dolphins,False,YdsL,219.0
+14,Arizona Cardinals,False,YdsL,323.0
+15,Seattle Seahawks,False,YdsL,277.0
+15,Indianapolis Colts,False,YdsL,341.0
+15,Baltimore Ravens,False,YdsL,324.0
+15,Miami Dolphins,False,YdsL,405.0
+15,Atlanta Falcons,False,YdsL,320.0
+15,Carolina Panthers,False,YdsL,209.0
+15,Chicago Bears,False,YdsL,248.0
+15,Dallas Cowboys,False,YdsL,397.0
+15,New York Jets,False,YdsL,337.0
+15,Houston Texans,False,YdsL,219.0
+15,Arizona Cardinals,False,YdsL,240.0
+15,New England Patriots,False,YdsL,318.0
+15,Tampa Bay Buccaneers,False,YdsL,396.0
+15,Tennessee Titans,False,YdsL,284.0
+15,Washington Commanders,False,YdsL,387.0
+15,Los Angeles Rams,False,YdsL,156.0
+16,New York Jets,False,YdsL,227.0
+16,Atlanta Falcons,False,YdsL,327.0
+16,Chicago Bears,False,YdsL,209.0
+16,Detroit Lions,False,YdsL,381.0
+16,New England Patriots,False,YdsL,285.0
+16,Cleveland Browns,False,YdsL,249.0
+16,Tennessee Titans,False,YdsL,272.0
+16,Seattle Seahawks,False,YdsL,333.0
+16,New York Giants,False,YdsL,445.0
+16,Washington Commanders,False,YdsL,349.0
+16,Philadelphia Eagles,False,YdsL,442.0
+16,Las Vegas Raiders,False,YdsL,201.0
+16,Miami Dolphins,False,YdsL,376.0
+16,Denver Broncos,False,YdsL,323.0
+16,Arizona Cardinals,False,YdsL,325.0
+16,Indianapolis Colts,False,YdsL,173.0
+17,Tennessee Titans,False,YdsL,317.0
+17,Arizona Cardinals,False,YdsL,339.0
+17,Carolina Panthers,False,YdsL,400.0
+17,Chicago Bears,False,YdsL,230.0
+17,Washington Commanders,False,YdsL,260.0
+17,Indianapolis Colts,False,YdsL,252.0
+17,Denver Broncos,False,YdsL,307.0
+17,Houston Texans,False,YdsL,277.0
+17,Miami Dolphins,False,YdsL,333.0
+17,Philadelphia Eagles,False,YdsL,313.0
+17,New York Jets,False,YdsL,279.0
+17,Las Vegas Raiders,False,YdsL,500.0
+17,Minnesota Vikings,False,YdsL,346.0
+17,Los Angeles Rams,False,YdsL,277.0
+17,Baltimore Ravens,False,YdsL,240.0
+18,Las Vegas Raiders,False,YdsL,279.0
+18,Tennessee Titans,False,YdsL,312.0
+18,New England Patriots,False,YdsL,341.0
+18,Baltimore Ravens,False,YdsL,386.0
+18,Tampa Bay Buccaneers,False,YdsL,222.0
+18,New Orleans Saints,False,YdsL,304.0
+18,Chicago Bears,False,YdsL,259.0
+18,Cleveland Browns,False,YdsL,307.0
+18,Indianapolis Colts,False,YdsL,398.0
+18,New York Jets,False,YdsL,187.0
+18,Arizona Cardinals,False,YdsL,255.0
+18,Dallas Cowboys,False,YdsL,182.0
+18,Los Angeles Chargers,False,YdsL,352.0
+18,New York Giants,False,YdsL,284.0
+18,Los Angeles Rams,False,YdsL,269.0
+18,Green Bay Packers,False,YdsL,291.0
+1WildCard,Seattle Seahawks,False,YdsL,332.0
+1WildCard,Los Angeles Chargers,False,YdsL,320.0
+1WildCard,Miami Dolphins,False,YdsL,231.0
+1WildCard,Minnesota Vikings,False,YdsL,332.0
+1WildCard,Baltimore Ravens,False,YdsL,364.0
+1WildCard,Tampa Bay Buccaneers,False,YdsL,386.0
+2Division,Jacksonville Jaguars,False,YdsL,349.0
+2Division,New York Giants,False,YdsL,227.0
+2Division,Buffalo Bills,False,YdsL,325.0
+2Division,Dallas Cowboys,False,YdsL,282.0
+ConfChamp,San Francisco 49ers,False,YdsL,164.0
+ConfChamp,Cincinnati Bengals,False,YdsL,309.0
+SuperBowl,Philadelphia Eagles,False,YdsL,417.0
+01,Buffalo Bills,True,PtsW,31.0
+01,New Orleans Saints,True,PtsW,27.0
+01,Cleveland Browns,True,PtsW,26.0
+01,Chicago Bears,True,PtsW,19.0
+01,Pittsburgh Steelers,True,PtsW,23.0
+01,Houston Texans,True,PtsW,20.0
+01,Philadelphia Eagles,True,PtsW,38.0
+01,Washington Commanders,True,PtsW,28.0
+01,Miami Dolphins,True,PtsW,20.0
+01,Baltimore Ravens,True,PtsW,24.0
+01,Kansas City Chiefs,True,PtsW,44.0
+01,Minnesota Vikings,True,PtsW,23.0
+01,New York Giants,True,PtsW,21.0
+01,Los Angeles Chargers,True,PtsW,24.0
+01,Tampa Bay Buccaneers,True,PtsW,19.0
+01,Seattle Seahawks,True,PtsW,17.0
+02,Kansas City Chiefs,True,PtsW,27.0
+02,New York Giants,True,PtsW,19.0
+02,New York Jets,True,PtsW,31.0
+02,Jacksonville Jaguars,True,PtsW,24.0
+02,Detroit Lions,True,PtsW,36.0
+02,Miami Dolphins,True,PtsW,42.0
+02,Tampa Bay Buccaneers,True,PtsW,20.0
+02,New England Patriots,True,PtsW,17.0
+02,Los Angeles Rams,True,PtsW,31.0
+02,San Francisco 49ers,True,PtsW,27.0
+02,Dallas Cowboys,True,PtsW,20.0
+02,Arizona Cardinals,True,PtsW,29.0
+02,Denver Broncos,True,PtsW,16.0
+02,Green Bay Packers,True,PtsW,27.0
+02,Buffalo Bills,True,PtsW,41.0
+02,Philadelphia Eagles,True,PtsW,24.0
+03,Cleveland Browns,True,PtsW,29.0
+03,Miami Dolphins,True,PtsW,21.0
+03,Carolina Panthers,True,PtsW,22.0
+03,Chicago Bears,True,PtsW,23.0
+03,Cincinnati Bengals,True,PtsW,27.0
+03,Indianapolis Colts,True,PtsW,20.0
+03,Minnesota Vikings,True,PtsW,28.0
+03,Baltimore Ravens,True,PtsW,37.0
+03,Tennessee Titans,True,PtsW,24.0
+03,Philadelphia Eagles,True,PtsW,24.0
+03,Jacksonville Jaguars,True,PtsW,38.0
+03,Atlanta Falcons,True,PtsW,27.0
+03,Los Angeles Rams,True,PtsW,20.0
+03,Green Bay Packers,True,PtsW,14.0
+03,Denver Broncos,True,PtsW,11.0
+03,Dallas Cowboys,True,PtsW,23.0
+04,Cincinnati Bengals,True,PtsW,27.0
+04,Minnesota Vikings,True,PtsW,28.0
+04,Atlanta Falcons,True,PtsW,23.0
+04,Buffalo Bills,True,PtsW,23.0
+04,New York Giants,True,PtsW,20.0
+04,Tennessee Titans,True,PtsW,24.0
+04,Dallas Cowboys,True,PtsW,25.0
+04,Seattle Seahawks,True,PtsW,48.0
+04,Los Angeles Chargers,True,PtsW,34.0
+04,Philadelphia Eagles,True,PtsW,29.0
+04,New York Jets,True,PtsW,24.0
+04,Arizona Cardinals,True,PtsW,26.0
+04,Las Vegas Raiders,True,PtsW,32.0
+04,Green Bay Packers,True,PtsW,27.0
+04,Kansas City Chiefs,True,PtsW,41.0
+04,San Francisco 49ers,True,PtsW,24.0
+05,Indianapolis Colts,True,PtsW,12.0
+05,New York Giants,True,PtsW,27.0
+05,Tampa Bay Buccaneers,True,PtsW,21.0
+05,Buffalo Bills,True,PtsW,38.0
+05,Minnesota Vikings,True,PtsW,29.0
+05,Los Angeles Chargers,True,PtsW,30.0
+05,New England Patriots,True,PtsW,29.0
+05,Houston Texans,True,PtsW,13.0
+05,New York Jets,True,PtsW,40.0
+05,New Orleans Saints,True,PtsW,39.0
+05,Tennessee Titans,True,PtsW,21.0
+05,San Francisco 49ers,True,PtsW,37.0
+05,Philadelphia Eagles,True,PtsW,20.0
+05,Dallas Cowboys,True,PtsW,22.0
+05,Baltimore Ravens,True,PtsW,19.0
+05,Kansas City Chiefs,True,PtsW,30.0
+06,Washington Commanders,True,PtsW,12.0
+06,Atlanta Falcons,True,PtsW,28.0
+06,Cincinnati Bengals,True,PtsW,30.0
+06,New England Patriots,True,PtsW,38.0
+06,Indianapolis Colts,True,PtsW,34.0
+06,New York Jets,True,PtsW,27.0
+06,Minnesota Vikings,True,PtsW,24.0
+06,New York Giants,True,PtsW,24.0
+06,Pittsburgh Steelers,True,PtsW,20.0
+06,Los Angeles Rams,True,PtsW,24.0
+06,Seattle Seahawks,True,PtsW,19.0
+06,Buffalo Bills,True,PtsW,24.0
+06,Philadelphia Eagles,True,PtsW,26.0
+06,Los Angeles Chargers,True,PtsW,19.0
+07,Arizona Cardinals,True,PtsW,42.0
+07,Cincinnati Bengals,True,PtsW,35.0
+07,Carolina Panthers,True,PtsW,21.0
+07,Baltimore Ravens,True,PtsW,23.0
+07,Tennessee Titans,True,PtsW,19.0
+07,Dallas Cowboys,True,PtsW,24.0
+07,Washington Commanders,True,PtsW,23.0
+07,New York Giants,True,PtsW,23.0
+07,Las Vegas Raiders,True,PtsW,38.0
+07,New York Jets,True,PtsW,16.0
+07,Kansas City Chiefs,True,PtsW,44.0
+07,Seattle Seahawks,True,PtsW,37.0
+07,Miami Dolphins,True,PtsW,16.0
+07,Chicago Bears,True,PtsW,33.0
+08,Baltimore Ravens,True,PtsW,27.0
+08,Denver Broncos,True,PtsW,21.0
+08,Miami Dolphins,True,PtsW,31.0
+08,Philadelphia Eagles,True,PtsW,35.0
+08,Atlanta Falcons,True,PtsW,37.0
+08,Dallas Cowboys,True,PtsW,49.0
+08,Minnesota Vikings,True,PtsW,34.0
+08,New Orleans Saints,True,PtsW,24.0
+08,New England Patriots,True,PtsW,22.0
+08,Tennessee Titans,True,PtsW,17.0
+08,San Francisco 49ers,True,PtsW,31.0
+08,Washington Commanders,True,PtsW,17.0
+08,Seattle Seahawks,True,PtsW,27.0
+08,Buffalo Bills,True,PtsW,27.0
+08,Cleveland Browns,True,PtsW,32.0
+09,Philadelphia Eagles,True,PtsW,29.0
+09,New York Jets,True,PtsW,20.0
+09,Detroit Lions,True,PtsW,15.0
+09,Minnesota Vikings,True,PtsW,20.0
+09,Los Angeles Chargers,True,PtsW,20.0
+09,Cincinnati Bengals,True,PtsW,42.0
+09,Miami Dolphins,True,PtsW,35.0
+09,New England Patriots,True,PtsW,26.0
+09,Jacksonville Jaguars,True,PtsW,27.0
+09,Seattle Seahawks,True,PtsW,31.0
+09,Tampa Bay Buccaneers,True,PtsW,16.0
+09,Kansas City Chiefs,True,PtsW,20.0
+09,Baltimore Ravens,True,PtsW,27.0
+10,Carolina Panthers,True,PtsW,25.0
+10,Tampa Bay Buccaneers,True,PtsW,21.0
+10,Minnesota Vikings,True,PtsW,33.0
+10,Miami Dolphins,True,PtsW,39.0
+10,Tennessee Titans,True,PtsW,17.0
+10,New York Giants,True,PtsW,24.0
+10,Detroit Lions,True,PtsW,31.0
+10,Kansas City Chiefs,True,PtsW,27.0
+10,Pittsburgh Steelers,True,PtsW,20.0
+10,Indianapolis Colts,True,PtsW,25.0
+10,Green Bay Packers,True,PtsW,31.0
+10,Arizona Cardinals,True,PtsW,27.0
+10,San Francisco 49ers,True,PtsW,22.0
+10,Washington Commanders,True,PtsW,32.0
+11,Tennessee Titans,True,PtsW,27.0
+11,Buffalo Bills,True,PtsW,31.0
+11,Detroit Lions,True,PtsW,31.0
+11,Washington Commanders,True,PtsW,23.0
+11,New England Patriots,True,PtsW,10.0
+11,Atlanta Falcons,True,PtsW,27.0
+11,Baltimore Ravens,True,PtsW,13.0
+11,Philadelphia Eagles,True,PtsW,17.0
+11,New Orleans Saints,True,PtsW,27.0
+11,Las Vegas Raiders,True,PtsW,22.0
+11,Cincinnati Bengals,True,PtsW,37.0
+11,Dallas Cowboys,True,PtsW,40.0
+11,Kansas City Chiefs,True,PtsW,30.0
+11,San Francisco 49ers,True,PtsW,38.0
+12,Buffalo Bills,True,PtsW,28.0
+12,Dallas Cowboys,True,PtsW,28.0
+12,Minnesota Vikings,True,PtsW,33.0
+12,Cincinnati Bengals,True,PtsW,20.0
+12,Cleveland Browns,True,PtsW,23.0
+12,Miami Dolphins,True,PtsW,30.0
+12,Jacksonville Jaguars,True,PtsW,28.0
+12,Washington Commanders,True,PtsW,19.0
+12,Carolina Panthers,True,PtsW,23.0
+12,New York Jets,True,PtsW,31.0
+12,Las Vegas Raiders,True,PtsW,40.0
+12,Los Angeles Chargers,True,PtsW,25.0
+12,Kansas City Chiefs,True,PtsW,26.0
+12,San Francisco 49ers,True,PtsW,13.0
+12,Philadelphia Eagles,True,PtsW,40.0
+12,Pittsburgh Steelers,True,PtsW,24.0
+13,Buffalo Bills,True,PtsW,24.0
+13,Cleveland Browns,True,PtsW,27.0
+13,Baltimore Ravens,True,PtsW,10.0
+13,Detroit Lions,True,PtsW,40.0
+13,Minnesota Vikings,True,PtsW,27.0
+13,Washington Commanders,True,PtsW,20.0
+13,Philadelphia Eagles,True,PtsW,35.0
+13,Pittsburgh Steelers,True,PtsW,19.0
+13,Green Bay Packers,True,PtsW,28.0
+13,San Francisco 49ers,True,PtsW,33.0
+13,Seattle Seahawks,True,PtsW,27.0
+13,Cincinnati Bengals,True,PtsW,27.0
+13,Las Vegas Raiders,True,PtsW,27.0
+13,Dallas Cowboys,True,PtsW,54.0
+13,Tampa Bay Buccaneers,True,PtsW,17.0
+14,Los Angeles Rams,True,PtsW,17.0
+14,Buffalo Bills,True,PtsW,20.0
+14,Cincinnati Bengals,True,PtsW,23.0
+14,Dallas Cowboys,True,PtsW,27.0
+14,Detroit Lions,True,PtsW,34.0
+14,Jacksonville Jaguars,True,PtsW,36.0
+14,Philadelphia Eagles,True,PtsW,48.0
+14,Baltimore Ravens,True,PtsW,16.0
+14,Kansas City Chiefs,True,PtsW,34.0
+14,Carolina Panthers,True,PtsW,30.0
+14,San Francisco 49ers,True,PtsW,35.0
+14,Los Angeles Chargers,True,PtsW,23.0
+14,New England Patriots,True,PtsW,27.0
+15,San Francisco 49ers,True,PtsW,21.0
+15,Minnesota Vikings,True,PtsW,39.0
+15,Cleveland Browns,True,PtsW,13.0
+15,Buffalo Bills,True,PtsW,32.0
+15,New Orleans Saints,True,PtsW,21.0
+15,Pittsburgh Steelers,True,PtsW,24.0
+15,Philadelphia Eagles,True,PtsW,25.0
+15,Jacksonville Jaguars,True,PtsW,40.0
+15,Detroit Lions,True,PtsW,20.0
+15,Kansas City Chiefs,True,PtsW,30.0
+15,Denver Broncos,True,PtsW,24.0
+15,Las Vegas Raiders,True,PtsW,30.0
+15,Cincinnati Bengals,True,PtsW,34.0
+15,Los Angeles Chargers,True,PtsW,17.0
+15,New York Giants,True,PtsW,20.0
+15,Green Bay Packers,True,PtsW,24.0
+16,Jacksonville Jaguars,True,PtsW,19.0
+16,Baltimore Ravens,True,PtsW,17.0
+16,Buffalo Bills,True,PtsW,35.0
+16,Carolina Panthers,True,PtsW,37.0
+16,Cincinnati Bengals,True,PtsW,22.0
+16,New Orleans Saints,True,PtsW,17.0
+16,Houston Texans,True,PtsW,19.0
+16,Kansas City Chiefs,True,PtsW,24.0
+16,Minnesota Vikings,True,PtsW,27.0
+16,San Francisco 49ers,True,PtsW,37.0
+16,Dallas Cowboys,True,PtsW,40.0
+16,Pittsburgh Steelers,True,PtsW,13.0
+16,Green Bay Packers,True,PtsW,26.0
+16,Los Angeles Rams,True,PtsW,51.0
+16,Tampa Bay Buccaneers,True,PtsW,19.0
+16,Los Angeles Chargers,True,PtsW,20.0
+17,Dallas Cowboys,True,PtsW,27.0
+17,Atlanta Falcons,True,PtsW,20.0
+17,Tampa Bay Buccaneers,True,PtsW,30.0
+17,Detroit Lions,True,PtsW,41.0
+17,Cleveland Browns,True,PtsW,24.0
+17,New York Giants,True,PtsW,38.0
+17,Kansas City Chiefs,True,PtsW,27.0
+17,Jacksonville Jaguars,True,PtsW,31.0
+17,New England Patriots,True,PtsW,23.0
+17,New Orleans Saints,True,PtsW,20.0
+17,Seattle Seahawks,True,PtsW,23.0
+17,San Francisco 49ers,True,PtsW,37.0
+17,Green Bay Packers,True,PtsW,41.0
+17,Los Angeles Chargers,True,PtsW,31.0
+17,Pittsburgh Steelers,True,PtsW,16.0
+18,Kansas City Chiefs,True,PtsW,31.0
+18,Jacksonville Jaguars,True,PtsW,20.0
+18,Buffalo Bills,True,PtsW,35.0
+18,Cincinnati Bengals,True,PtsW,27.0
+18,Atlanta Falcons,True,PtsW,30.0
+18,Carolina Panthers,True,PtsW,10.0
+18,Minnesota Vikings,True,PtsW,29.0
+18,Pittsburgh Steelers,True,PtsW,28.0
+18,Houston Texans,True,PtsW,32.0
+18,Miami Dolphins,True,PtsW,11.0
+18,San Francisco 49ers,True,PtsW,38.0
+18,Washington Commanders,True,PtsW,26.0
+18,Denver Broncos,True,PtsW,31.0
+18,Philadelphia Eagles,True,PtsW,22.0
+18,Seattle Seahawks,True,PtsW,19.0
+18,Detroit Lions,True,PtsW,20.0
+1WildCard,San Francisco 49ers,True,PtsW,41.0
+1WildCard,Jacksonville Jaguars,True,PtsW,31.0
+1WildCard,Buffalo Bills,True,PtsW,34.0
+1WildCard,New York Giants,True,PtsW,31.0
+1WildCard,Cincinnati Bengals,True,PtsW,24.0
+1WildCard,Dallas Cowboys,True,PtsW,31.0
+2Division,Kansas City Chiefs,True,PtsW,27.0
+2Division,Philadelphia Eagles,True,PtsW,38.0
+2Division,Cincinnati Bengals,True,PtsW,27.0
+2Division,San Francisco 49ers,True,PtsW,19.0
+ConfChamp,Philadelphia Eagles,True,PtsW,31.0
+ConfChamp,Kansas City Chiefs,True,PtsW,23.0
+SuperBowl,Kansas City Chiefs,True,PtsW,38.0
+01,Los Angeles Rams,False,PtsL,10.0
+01,Atlanta Falcons,False,PtsL,26.0
+01,Carolina Panthers,False,PtsL,24.0
+01,San Francisco 49ers,False,PtsL,10.0
+01,Cincinnati Bengals,False,PtsL,20.0
+01,Indianapolis Colts,False,PtsL,20.0
+01,Detroit Lions,False,PtsL,35.0
+01,Jacksonville Jaguars,False,PtsL,22.0
+01,New England Patriots,False,PtsL,7.0
+01,New York Jets,False,PtsL,9.0
+01,Arizona Cardinals,False,PtsL,21.0
+01,Green Bay Packers,False,PtsL,7.0
+01,Tennessee Titans,False,PtsL,20.0
+01,Las Vegas Raiders,False,PtsL,19.0
+01,Dallas Cowboys,False,PtsL,3.0
+01,Denver Broncos,False,PtsL,16.0
+02,Los Angeles Chargers,False,PtsL,24.0
+02,Carolina Panthers,False,PtsL,16.0
+02,Cleveland Browns,False,PtsL,30.0
+02,Indianapolis Colts,False,PtsL,0.0
+02,Washington Commanders,False,PtsL,27.0
+02,Baltimore Ravens,False,PtsL,38.0
+02,New Orleans Saints,False,PtsL,10.0
+02,Pittsburgh Steelers,False,PtsL,14.0
+02,Atlanta Falcons,False,PtsL,27.0
+02,Seattle Seahawks,False,PtsL,7.0
+02,Cincinnati Bengals,False,PtsL,17.0
+02,Las Vegas Raiders,False,PtsL,23.0
+02,Houston Texans,False,PtsL,9.0
+02,Chicago Bears,False,PtsL,10.0
+02,Tennessee Titans,False,PtsL,7.0
+02,Minnesota Vikings,False,PtsL,7.0
+03,Pittsburgh Steelers,False,PtsL,17.0
+03,Buffalo Bills,False,PtsL,19.0
+03,New Orleans Saints,False,PtsL,14.0
+03,Houston Texans,False,PtsL,20.0
+03,New York Jets,False,PtsL,12.0
+03,Kansas City Chiefs,False,PtsL,17.0
+03,Detroit Lions,False,PtsL,24.0
+03,New England Patriots,False,PtsL,26.0
+03,Las Vegas Raiders,False,PtsL,22.0
+03,Washington Commanders,False,PtsL,8.0
+03,Los Angeles Chargers,False,PtsL,10.0
+03,Seattle Seahawks,False,PtsL,23.0
+03,Arizona Cardinals,False,PtsL,12.0
+03,Tampa Bay Buccaneers,False,PtsL,12.0
+03,San Francisco 49ers,False,PtsL,10.0
+03,New York Giants,False,PtsL,16.0
+04,Miami Dolphins,False,PtsL,15.0
+04,New Orleans Saints,False,PtsL,25.0
+04,Cleveland Browns,False,PtsL,20.0
+04,Baltimore Ravens,False,PtsL,20.0
+04,Chicago Bears,False,PtsL,12.0
+04,Indianapolis Colts,False,PtsL,17.0
+04,Washington Commanders,False,PtsL,10.0
+04,Detroit Lions,False,PtsL,45.0
+04,Houston Texans,False,PtsL,24.0
+04,Jacksonville Jaguars,False,PtsL,21.0
+04,Pittsburgh Steelers,False,PtsL,20.0
+04,Carolina Panthers,False,PtsL,16.0
+04,Denver Broncos,False,PtsL,23.0
+04,New England Patriots,False,PtsL,24.0
+04,Tampa Bay Buccaneers,False,PtsL,31.0
+04,Los Angeles Rams,False,PtsL,9.0
+05,Denver Broncos,False,PtsL,9.0
+05,Green Bay Packers,False,PtsL,22.0
+05,Atlanta Falcons,False,PtsL,15.0
+05,Pittsburgh Steelers,False,PtsL,3.0
+05,Chicago Bears,False,PtsL,22.0
+05,Cleveland Browns,False,PtsL,28.0
+05,Detroit Lions,False,PtsL,0.0
+05,Jacksonville Jaguars,False,PtsL,6.0
+05,Miami Dolphins,False,PtsL,17.0
+05,Seattle Seahawks,False,PtsL,32.0
+05,Washington Commanders,False,PtsL,17.0
+05,Carolina Panthers,False,PtsL,15.0
+05,Arizona Cardinals,False,PtsL,17.0
+05,Los Angeles Rams,False,PtsL,10.0
+05,Cincinnati Bengals,False,PtsL,17.0
+05,Las Vegas Raiders,False,PtsL,29.0
+06,Chicago Bears,False,PtsL,7.0
+06,San Francisco 49ers,False,PtsL,14.0
+06,New Orleans Saints,False,PtsL,26.0
+06,Cleveland Browns,False,PtsL,15.0
+06,Jacksonville Jaguars,False,PtsL,27.0
+06,Green Bay Packers,False,PtsL,10.0
+06,Miami Dolphins,False,PtsL,16.0
+06,Baltimore Ravens,False,PtsL,20.0
+06,Tampa Bay Buccaneers,False,PtsL,18.0
+06,Carolina Panthers,False,PtsL,10.0
+06,Arizona Cardinals,False,PtsL,9.0
+06,Kansas City Chiefs,False,PtsL,20.0
+06,Dallas Cowboys,False,PtsL,17.0
+06,Denver Broncos,False,PtsL,16.0
+07,New Orleans Saints,False,PtsL,34.0
+07,Atlanta Falcons,False,PtsL,17.0
+07,Tampa Bay Buccaneers,False,PtsL,3.0
+07,Cleveland Browns,False,PtsL,20.0
+07,Indianapolis Colts,False,PtsL,10.0
+07,Detroit Lions,False,PtsL,6.0
+07,Green Bay Packers,False,PtsL,21.0
+07,Jacksonville Jaguars,False,PtsL,17.0
+07,Houston Texans,False,PtsL,20.0
+07,Denver Broncos,False,PtsL,9.0
+07,San Francisco 49ers,False,PtsL,23.0
+07,Los Angeles Chargers,False,PtsL,23.0
+07,Pittsburgh Steelers,False,PtsL,10.0
+07,New England Patriots,False,PtsL,14.0
+08,Tampa Bay Buccaneers,False,PtsL,22.0
+08,Jacksonville Jaguars,False,PtsL,17.0
+08,Detroit Lions,False,PtsL,27.0
+08,Pittsburgh Steelers,False,PtsL,13.0
+08,Carolina Panthers,False,PtsL,34.0
+08,Chicago Bears,False,PtsL,29.0
+08,Arizona Cardinals,False,PtsL,26.0
+08,Las Vegas Raiders,False,PtsL,0.0
+08,New York Jets,False,PtsL,17.0
+08,Houston Texans,False,PtsL,10.0
+08,Los Angeles Rams,False,PtsL,14.0
+08,Indianapolis Colts,False,PtsL,16.0
+08,New York Giants,False,PtsL,13.0
+08,Green Bay Packers,False,PtsL,17.0
+08,Cincinnati Bengals,False,PtsL,13.0
+09,Houston Texans,False,PtsL,17.0
+09,Buffalo Bills,False,PtsL,17.0
+09,Green Bay Packers,False,PtsL,9.0
+09,Washington Commanders,False,PtsL,17.0
+09,Atlanta Falcons,False,PtsL,17.0
+09,Carolina Panthers,False,PtsL,21.0
+09,Chicago Bears,False,PtsL,32.0
+09,Indianapolis Colts,False,PtsL,3.0
+09,Las Vegas Raiders,False,PtsL,20.0
+09,Arizona Cardinals,False,PtsL,21.0
+09,Los Angeles Rams,False,PtsL,13.0
+09,Tennessee Titans,False,PtsL,17.0
+09,New Orleans Saints,False,PtsL,13.0
+10,Atlanta Falcons,False,PtsL,15.0
+10,Seattle Seahawks,False,PtsL,16.0
+10,Buffalo Bills,False,PtsL,30.0
+10,Cleveland Browns,False,PtsL,17.0
+10,Denver Broncos,False,PtsL,10.0
+10,Houston Texans,False,PtsL,16.0
+10,Chicago Bears,False,PtsL,30.0
+10,Jacksonville Jaguars,False,PtsL,17.0
+10,New Orleans Saints,False,PtsL,10.0
+10,Las Vegas Raiders,False,PtsL,20.0
+10,Dallas Cowboys,False,PtsL,28.0
+10,Los Angeles Rams,False,PtsL,17.0
+10,Los Angeles Chargers,False,PtsL,16.0
+10,Philadelphia Eagles,False,PtsL,21.0
+11,Green Bay Packers,False,PtsL,17.0
+11,Cleveland Browns,False,PtsL,23.0
+11,New York Giants,False,PtsL,18.0
+11,Houston Texans,False,PtsL,10.0
+11,New York Jets,False,PtsL,3.0
+11,Chicago Bears,False,PtsL,24.0
+11,Carolina Panthers,False,PtsL,3.0
+11,Indianapolis Colts,False,PtsL,16.0
+11,Los Angeles Rams,False,PtsL,20.0
+11,Denver Broncos,False,PtsL,16.0
+11,Pittsburgh Steelers,False,PtsL,30.0
+11,Minnesota Vikings,False,PtsL,3.0
+11,Los Angeles Chargers,False,PtsL,27.0
+11,Arizona Cardinals,False,PtsL,10.0
+12,Detroit Lions,False,PtsL,25.0
+12,New York Giants,False,PtsL,20.0
+12,New England Patriots,False,PtsL,26.0
+12,Tennessee Titans,False,PtsL,16.0
+12,Tampa Bay Buccaneers,False,PtsL,17.0
+12,Houston Texans,False,PtsL,15.0
+12,Baltimore Ravens,False,PtsL,27.0
+12,Atlanta Falcons,False,PtsL,13.0
+12,Denver Broncos,False,PtsL,10.0
+12,Chicago Bears,False,PtsL,10.0
+12,Seattle Seahawks,False,PtsL,34.0
+12,Arizona Cardinals,False,PtsL,24.0
+12,Los Angeles Rams,False,PtsL,10.0
+12,New Orleans Saints,False,PtsL,0.0
+12,Green Bay Packers,False,PtsL,33.0
+12,Indianapolis Colts,False,PtsL,17.0
+13,New England Patriots,False,PtsL,10.0
+13,Houston Texans,False,PtsL,14.0
+13,Denver Broncos,False,PtsL,9.0
+13,Jacksonville Jaguars,False,PtsL,14.0
+13,New York Jets,False,PtsL,22.0
+13,New York Giants,False,PtsL,20.0
+13,Tennessee Titans,False,PtsL,10.0
+13,Atlanta Falcons,False,PtsL,16.0
+13,Chicago Bears,False,PtsL,19.0
+13,Miami Dolphins,False,PtsL,17.0
+13,Los Angeles Rams,False,PtsL,23.0
+13,Kansas City Chiefs,False,PtsL,24.0
+13,Los Angeles Chargers,False,PtsL,20.0
+13,Indianapolis Colts,False,PtsL,19.0
+13,New Orleans Saints,False,PtsL,16.0
+14,Las Vegas Raiders,False,PtsL,16.0
+14,New York Jets,False,PtsL,12.0
+14,Cleveland Browns,False,PtsL,10.0
+14,Houston Texans,False,PtsL,23.0
+14,Minnesota Vikings,False,PtsL,23.0
+14,Tennessee Titans,False,PtsL,22.0
+14,New York Giants,False,PtsL,22.0
+14,Pittsburgh Steelers,False,PtsL,14.0
+14,Denver Broncos,False,PtsL,28.0
+14,Seattle Seahawks,False,PtsL,24.0
+14,Tampa Bay Buccaneers,False,PtsL,7.0
+14,Miami Dolphins,False,PtsL,17.0
+14,Arizona Cardinals,False,PtsL,13.0
+15,Seattle Seahawks,False,PtsL,13.0
+15,Indianapolis Colts,False,PtsL,36.0
+15,Baltimore Ravens,False,PtsL,3.0
+15,Miami Dolphins,False,PtsL,29.0
+15,Atlanta Falcons,False,PtsL,18.0
+15,Carolina Panthers,False,PtsL,16.0
+15,Chicago Bears,False,PtsL,20.0
+15,Dallas Cowboys,False,PtsL,34.0
+15,New York Jets,False,PtsL,17.0
+15,Houston Texans,False,PtsL,24.0
+15,Arizona Cardinals,False,PtsL,15.0
+15,New England Patriots,False,PtsL,24.0
+15,Tampa Bay Buccaneers,False,PtsL,23.0
+15,Tennessee Titans,False,PtsL,14.0
+15,Washington Commanders,False,PtsL,12.0
+15,Los Angeles Rams,False,PtsL,12.0
+16,New York Jets,False,PtsL,3.0
+16,Atlanta Falcons,False,PtsL,9.0
+16,Chicago Bears,False,PtsL,13.0
+16,Detroit Lions,False,PtsL,23.0
+16,New England Patriots,False,PtsL,18.0
+16,Cleveland Browns,False,PtsL,10.0
+16,Tennessee Titans,False,PtsL,14.0
+16,Seattle Seahawks,False,PtsL,10.0
+16,New York Giants,False,PtsL,24.0
+16,Washington Commanders,False,PtsL,20.0
+16,Philadelphia Eagles,False,PtsL,34.0
+16,Las Vegas Raiders,False,PtsL,10.0
+16,Miami Dolphins,False,PtsL,20.0
+16,Denver Broncos,False,PtsL,14.0
+16,Arizona Cardinals,False,PtsL,16.0
+16,Indianapolis Colts,False,PtsL,3.0
+17,Tennessee Titans,False,PtsL,13.0
+17,Arizona Cardinals,False,PtsL,19.0
+17,Carolina Panthers,False,PtsL,24.0
+17,Chicago Bears,False,PtsL,10.0
+17,Washington Commanders,False,PtsL,10.0
+17,Indianapolis Colts,False,PtsL,10.0
+17,Denver Broncos,False,PtsL,24.0
+17,Houston Texans,False,PtsL,3.0
+17,Miami Dolphins,False,PtsL,21.0
+17,Philadelphia Eagles,False,PtsL,10.0
+17,New York Jets,False,PtsL,6.0
+17,Las Vegas Raiders,False,PtsL,34.0
+17,Minnesota Vikings,False,PtsL,17.0
+17,Los Angeles Rams,False,PtsL,10.0
+17,Baltimore Ravens,False,PtsL,13.0
+18,Las Vegas Raiders,False,PtsL,13.0
+18,Tennessee Titans,False,PtsL,16.0
+18,New England Patriots,False,PtsL,23.0
+18,Baltimore Ravens,False,PtsL,16.0
+18,Tampa Bay Buccaneers,False,PtsL,17.0
+18,New Orleans Saints,False,PtsL,7.0
+18,Chicago Bears,False,PtsL,13.0
+18,Cleveland Browns,False,PtsL,14.0
+18,Indianapolis Colts,False,PtsL,31.0
+18,New York Jets,False,PtsL,6.0
+18,Arizona Cardinals,False,PtsL,13.0
+18,Dallas Cowboys,False,PtsL,6.0
+18,Los Angeles Chargers,False,PtsL,28.0
+18,New York Giants,False,PtsL,16.0
+18,Los Angeles Rams,False,PtsL,16.0
+18,Green Bay Packers,False,PtsL,16.0
+1WildCard,Seattle Seahawks,False,PtsL,23.0
+1WildCard,Los Angeles Chargers,False,PtsL,30.0
+1WildCard,Miami Dolphins,False,PtsL,31.0
+1WildCard,Minnesota Vikings,False,PtsL,24.0
+1WildCard,Baltimore Ravens,False,PtsL,17.0
+1WildCard,Tampa Bay Buccaneers,False,PtsL,14.0
+2Division,Jacksonville Jaguars,False,PtsL,20.0
+2Division,New York Giants,False,PtsL,7.0
+2Division,Buffalo Bills,False,PtsL,10.0
+2Division,Dallas Cowboys,False,PtsL,12.0
+ConfChamp,San Francisco 49ers,False,PtsL,7.0
+ConfChamp,Cincinnati Bengals,False,PtsL,20.0
+SuperBowl,Philadelphia Eagles,False,PtsL,35.0
